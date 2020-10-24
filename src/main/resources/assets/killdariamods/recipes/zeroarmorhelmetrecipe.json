@@ -1,0 +1,29 @@
+{
+  "group": "killdariamods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "killdariamods:zeroingot"
+    },
+    "1": {
+      "item": "killdariamods:zeroingot"
+    },
+    "2": {
+      "item": "killdariamods:zeroingot"
+    },
+    "3": {
+      "item": "killdariamods:zeroingot"
+    },
+    "5": {
+      "item": "killdariamods:zeroingot"
+    }
+  },
+  "result": {
+    "item": "killdariamods:zeroarmorhelmet",
+    "count": 1
+  }
+}

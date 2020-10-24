@@ -1,0 +1,26 @@
+{
+  "group": "killdariamods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "killdariamods:dariaingot"
+    },
+    "2": {
+      "item": "killdariamods:dariaingot"
+    },
+    "3": {
+      "item": "killdariamods:dariaingot"
+    },
+    "5": {
+      "item": "killdariamods:dariaingot"
+    }
+  },
+  "result": {
+    "item": "killdariamods:dariaarmorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "killdariamods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "killdariamods:dariaingot"
+    },
+    "2": {
+      "item": "killdariamods:dariaingot"
+    },
+    "3": {
+      "item": "killdariamods:dariaingot"
+    },
+    "4": {
+      "item": "killdariamods:dariaingot"
+    },
+    "5": {
+      "item": "killdariamods:dariaingot"
+    },
+    "6": {
+      "item": "killdariamods:dariaingot"
+    },
+    "7": {
+      "item": "killdariamods:dariaingot"
+    },
+    "8": {
+      "item": "killdariamods:dariaingot"
+    }
+  },
+  "result": {
+    "item": "killdariamods:dariaarmorbody",
+    "count": 1
+  }
+}

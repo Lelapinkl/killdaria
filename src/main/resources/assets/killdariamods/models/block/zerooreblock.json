@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "killdariamods:blocks/zero_ore_block",
+    "particle": "killdariamods:blocks/zero_ore_block"
+  }
+}

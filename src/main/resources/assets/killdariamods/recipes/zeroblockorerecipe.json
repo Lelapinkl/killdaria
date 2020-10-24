@@ -1,0 +1,13 @@
+{
+  "group": "killdariamods",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "killdariamods:zerooreblock"
+    }
+  ],
+  "result": {
+    "item": "killdariamods:zeroingot",
+    "count": 9
+  }
+}

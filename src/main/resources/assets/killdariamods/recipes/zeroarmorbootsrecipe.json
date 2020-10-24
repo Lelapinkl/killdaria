@@ -1,0 +1,26 @@
+{
+  "group": "killdariamods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "killdariamods:zeroingot"
+    },
+    "2": {
+      "item": "killdariamods:zeroingot"
+    },
+    "3": {
+      "item": "killdariamods:zeroingot"
+    },
+    "5": {
+      "item": "killdariamods:zeroingot"
+    }
+  },
+  "result": {
+    "item": "killdariamods:zeroarmorboots",
+    "count": 1
+  }
+}

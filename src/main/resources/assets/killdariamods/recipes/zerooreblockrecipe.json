@@ -1,0 +1,42 @@
+{
+  "group": "killdariamods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "killdariamods:zeroingot"
+    },
+    "1": {
+      "item": "killdariamods:zeroingot"
+    },
+    "2": {
+      "item": "killdariamods:zeroingot"
+    },
+    "3": {
+      "item": "killdariamods:zeroingot"
+    },
+    "4": {
+      "item": "killdariamods:zeroingot"
+    },
+    "5": {
+      "item": "killdariamods:zeroingot"
+    },
+    "6": {
+      "item": "killdariamods:zeroingot"
+    },
+    "7": {
+      "item": "killdariamods:zeroingot"
+    },
+    "8": {
+      "item": "killdariamods:zeroingot"
+    }
+  },
+  "result": {
+    "item": "killdariamods:zerooreblock",
+    "count": 1
+  }
+}
