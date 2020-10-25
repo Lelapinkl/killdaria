@@ -508,6 +508,14 @@
           }
         ]
       }
+    },
+    {
+      "name": "FauxTools",
+      "type": "tool",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -545,6 +553,7 @@
       "item.emeraldarmorbody.name": "Emerald Chestplate",
       "item.emeraldpickaxe.name": "Emerald Pickaxe",
       "item.zerosword.name": "Zero Sword",
+      "item.fauxtools.name": "Faux Tools",
       "item.dariaarmorhelmet.name": "Daria Helmet",
       "item.emeraldarmorhelmet.name": "Emerald Helmet",
       "item.emeraldhoe.name": "Emerald Hoe"
@@ -563,6 +572,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.killdariamods",
     "lockBaseModFiles": false
   },

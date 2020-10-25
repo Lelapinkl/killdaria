@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "killdariamods:faux.obj",
+    "custom": {
+      "flip-v": true
+    },
+    "textures": {
+      "#m_0": "killdariamods:blocks/"
+    }
+  },
+  "variants": {
+    "inventory": [
+      {
+        "transform": "forge:default-tool"
+      }
+    ]
+  }
+}
